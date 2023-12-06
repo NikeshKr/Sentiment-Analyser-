@@ -1,6 +1,5 @@
 # Sentiment-Analyser-
 It is model which can used to predict the sentiment of text
-Certainly, Nikesh! Here's a template for your README file:
 
 ```markdown
 # Sentiment Analysis
